@@ -3,7 +3,7 @@
   "displayName": "vs-code-that-dark",
   "description": "The visual studio default dark theme with a little customization",
   "publisher": "byspeedster",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -13,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "vs-code-customized",
+        "label": "VsCodeCustomized",
         "uiTheme": "vs-dark",
         "path": "./themes/vs-code-customized-color-theme.json"
       }

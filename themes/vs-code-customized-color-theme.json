@@ -1,11 +1,12 @@
 {
-  "name": "vs-code-customized",
+  "name": "VSCodeCustomized",
   "colors": {
     "editor.background": "#1f1f1f",
     "sideBar.background": "#1f1f1f",
     "editor.foreground": "#eeffff",
     "activityBarBadge.background": "#007acc",
-    "sideBarTitle.foreground": "#bbbbbb"
+    "sideBarTitle.foreground": "#bbbbbb",
+    "logo": "../icon.png"
   },
   "tokenColors": [
     {
@@ -52,6 +53,12 @@
     },
     {
       "scope": "variable.other.object",
+      "settings": {
+        "foreground": "#FFC66D"
+      }
+    },
+    {
+      "scope": "variable.parameter",
       "settings": {
         "foreground": "#FFC66D"
       }
@@ -130,6 +137,18 @@
     },
     {
       "scope": "variable.other.object",
+      "settings": {
+        "foreground": "#FFC66D"
+      }
+    },
+    {
+      "scope": "comment.line.number-sign,comment.line.double-slash",
+      "settings": {
+        "foreground": "#65af80"
+      }
+    },
+    {
+      "scope": "keyword.other.definition.ini",
       "settings": {
         "foreground": "#FFC66D"
       }
