@@ -1,12 +1,12 @@
 {
   "name": "VSCodeCustomized",
   "colors": {
-    "editor.background": "#1f1f1f",
-    "sideBar.background": "#1f1f1f",
+    "editor.background": "#1c1c1c",
+    "sideBar.background": "#1c1c1c",
+    "sideBar.border": "#36ba99",
     "editor.foreground": "#eeffff",
     "activityBarBadge.background": "#007acc",
-    "sideBarTitle.foreground": "#bbbbbb",
-    "logo": "../icon.png"
+    "sideBarTitle.foreground": "#bbbbbb"
   },
   "tokenColors": [
     {
@@ -25,6 +25,18 @@
       "scope": "constant.numeric",
       "settings": {
         "foreground": "#B5CEA8"
+      }
+    },
+    {
+      "scope": "variable.other.property",
+      "settings": {
+        "foreground": "#c6dcba"
+      }
+    },
+    {
+      "scope": "support.type",
+      "settings": {
+        "foreground": "#36ba99"
       }
     },
     {
@@ -106,7 +118,7 @@
       }
     },
     {
-      "scope": "entity.name.type",
+      "scope": "entity.name.type,support.type.object.module",
       "settings": {
         "foreground": "#36BA99"
       }
