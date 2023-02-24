@@ -88,7 +88,7 @@
       }
     },
     {
-      "scope": "variable.other.readwrite.alias.ts, meta.block.ts, meta.import.ts, source.ts",
+      "scope": "variable.other.readwrite.alias.ts, meta.block.ts, meta.import.ts, source.ts, punctuation.accessor.optional",
       "settings": {
         "foreground": "#D4D4D4"
       }
@@ -112,7 +112,7 @@
       }
     },
     {
-      "scope": "variable.language",
+      "scope": "variable.language, keyword.other",
       "settings": {
         "foreground": "#569CD6"
       }
