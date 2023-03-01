@@ -3,7 +3,7 @@
   "displayName": "vs-code-that-dark",
   "description": "The visual studio default dark theme with a little customization",
   "publisher": "byspeedster",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.75.0"

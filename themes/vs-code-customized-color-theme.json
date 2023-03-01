@@ -3,7 +3,7 @@
   "colors": {
     "editor.background": "#1c1c1c",
     "sideBar.background": "#1c1c1c",
-    "sideBar.border": "#36ba99",
+    "sideBar.border": "#73bcaa",
     "editor.foreground": "#eeffff",
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb"
@@ -18,7 +18,7 @@
     {
       "scope": "string.quoted.double",
       "settings": {
-        "foreground": "#CE9178"
+        "foreground": "#d28160"
       }
     },
     {
@@ -42,13 +42,13 @@
     {
       "scope": "constant.language",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#36a4ff"
       }
     },
     {
       "scope": "storage.modifier",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#36a4ff"
       }
     },
     {
@@ -78,13 +78,13 @@
     {
       "scope": "string",
       "settings": {
-        "foreground": "#CE9178"
+        "foreground": "#d28160"
       }
     },
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#36a4ff"
       }
     },
     {
@@ -94,7 +94,7 @@
       }
     },
     {
-      "scope": "variable.other.property,variable.other.readwrite",
+      "scope": "variable.other.property,variable.other.readwrite,variable.other.constant",
       "settings": {
         "foreground": "#D4D4D4"
       }
@@ -108,13 +108,13 @@
     {
       "scope": "storage.type",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#36a4ff"
       }
     },
     {
       "scope": "variable.language, keyword.other",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#36a4ff"
       }
     },
     {
@@ -144,7 +144,7 @@
     {
       "scope": "string.quoted.double",
       "settings": {
-        "foreground": "#CE9178"
+        "foreground": "#d28160"
       }
     },
     {
