@@ -25,7 +25,7 @@ Choose "Viscose" from the list of available themes
 
 ## Credits
 
-The Viscose theme was created by [ng-speedster](https://github.com/Madebyspeedster). Special thanks to the creators of the default dark theme for Visual Studio Code, upon which this theme is based.
+The Vs code theme was created by [ng-speedster](https://github.com/Madebyspeedster). Special thanks to the creators of the default dark theme for Visual Studio Code, upon which this theme is based.
 
 ### License
 
