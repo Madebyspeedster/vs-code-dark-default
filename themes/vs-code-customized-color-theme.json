@@ -1,9 +1,9 @@
 {
   "name": "VSCodeCustomized",
   "colors": {
-    "editor.background": "#1c1c1c",
-    "sideBar.background": "#1c1c1c",
-    "sideBar.border": "#73bcaa",
+    "editor.background": "#242424",
+    "sideBar.background": "#242424",
+    "sideBar.border": "#535353",
     "editor.foreground": "#eeffff",
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb"
@@ -72,7 +72,7 @@
     {
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#FFC66D"
+        "foreground": "#aa92f1"
       }
     },
     {
@@ -88,7 +88,7 @@
       }
     },
     {
-      "scope": "variable.other.readwrite.alias.ts, meta.block.ts, meta.import.ts, source.ts, punctuation.accessor.optional",
+      "scope": "variable.other.readwrite.alias.ts, meta.block.ts, meta.import.ts, source.ts, punctuation.accessor.optional,support.variable.property,keyword.operator.expression,keyword.operator",
       "settings": {
         "foreground": "#D4D4D4"
       }
