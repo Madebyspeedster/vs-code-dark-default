@@ -1,8 +1,8 @@
 {
   "name": "VSCodeCustomized",
   "colors": {
-    "editor.background": "#242424",
-    "sideBar.background": "#242424",
+    "editor.background": "#1c1c1c",
+    "sideBar.background": "#1c1c1c",
     "sideBar.border": "#535353",
     "editor.foreground": "#eeffff",
     "activityBarBadge.background": "#007acc",
@@ -72,7 +72,7 @@
     {
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#aa92f1"
+        "foreground": "#FFC66D"
       }
     },
     {
